@@ -57,7 +57,10 @@ char *_strtok(char *str, const char *delimeter)
 		while (_strcmp(save + i, delimeter) != 1 && *(save + i) != '\0')
 			i++;
 		if (*(save + i) == '\0')
+		{
+			save = NULL;
 			return (save);
+		}
 
 		_new = save;
 		*(save + i) = '\0';
