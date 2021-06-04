@@ -19,3 +19,4 @@ So far here are the articles I wrote.
 
 1. [Concretization one level deeper: Implement your own strtok();](https://hileabuis.medium.com/concretization-one-level-deeper-to-strtok-377200343450?source=follow_footer---------0----------------------------)
 2. [Database vs Warehouse: The analogy](https://hileabuis.medium.com/database-vs-warehous-the-analogy-54db1f5de5a5)
+3. [How do constructor functions work in javascript](https://hileabuis.medium.com/how-do-constructor-functions-work-in-javascript-408c1fe4c196?postPublishedType=initial)
